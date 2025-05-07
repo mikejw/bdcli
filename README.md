@@ -7,4 +7,4 @@ and initial configuration on a new machine.  (Base Docker dependencies still req
 
 Available currently for Linux AMD64 platform.
 
-Check the releases page!
+Check the [releases](https://github.com/mikejw/bdcli/releases) page!
