@@ -5,6 +5,6 @@
 A wrapper CLI tool around base docker commands, including base docker installation
 and initial configuration on a new machine.  (Base Docker dependencies still required - Python 3, virtualenv, Ansible, Docker.)
 
-Available currently for Linux AMD64 platform only.
+Currently no Windows support is available.
 
 Check the [releases](https://github.com/mikejw/bdcli/releases) page!
