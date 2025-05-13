@@ -1,0 +1,21 @@
+{
+    "name": "mikejw/bdcli",
+    "type": "library",
+    "description": "Release info for bdcli cli applicatoin",
+    "keywords": [
+        "cli"
+    ],
+    "homepage": "https://empathy.sh",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Michael J. Whiting",
+            "email": "mikejw3@gmail.comk"
+        }
+    ],
+    "require": {
+        "mikejw/empathy": "dev-master"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
