@@ -13,9 +13,6 @@
             "email": "mikejw3@gmail.comk"
         }
     ],
-    "require": {
-        "mikejw/empathy": "dev-master"
-    },
     "minimum-stability": "dev",
     "prefer-stable": true
 }
